@@ -12,3 +12,5 @@ A Senecajs plugin for an error microservice. It is supposed to register and hand
 .. image:: https://badges.gitter.im/yentsun/seneca-error-plugin.svg
     :alt: Join the chat at https://gitter.im/yentsun/seneca-error-plugin
     :target: https://gitter.im/yentsun/seneca-error-plugin?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge
+    
+Just a stub for now...
